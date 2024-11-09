@@ -1,0 +1,20 @@
+.rad-item {
+  text-align: center;
+  color: rgb(60, 41, 185);
+  font-weight: bolder;
+}
+.arrays {
+  margin-top: 5rem;
+  display: flex;
+  justify-content: space-around;
+}
+
+.array {
+  list-style: none;
+  border: solid 6px #800080;
+  text-align: center;
+}
+.array-items {
+  text-align: center;
+  padding: 5px 25px;
+}
